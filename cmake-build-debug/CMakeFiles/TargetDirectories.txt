@@ -1,0 +1,3 @@
+/Users/leonardoyi/Documents/GitHub/SIC-XE-Assembler-Team1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/leonardoyi/Documents/GitHub/SIC-XE-Assembler-Team1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leonardoyi/Documents/GitHub/SIC-XE-Assembler-Team1/cmake-build-debug/CMakeFiles/SIC_XE_Assembler_Team1.dir
